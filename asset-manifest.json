@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/static/css/main.55b1970c.css",
-    "main.js": "/static/js/main.4d7caf65.js",
+    "main.css": "/static/css/main.6c2538ef.css",
+    "main.js": "/static/js/main.50c1a049.js",
     "static/js/213.448ae3c2.chunk.js": "/static/js/213.448ae3c2.chunk.js",
     "static/js/455.16686087.chunk.js": "/static/js/455.16686087.chunk.js",
     "static/js/64.4f57bbb2.chunk.js": "/static/js/64.4f57bbb2.chunk.js",
     "static/js/116.2012d5db.chunk.js": "/static/js/116.2012d5db.chunk.js",
     "static/js/788.1b37a2c7.chunk.js": "/static/js/788.1b37a2c7.chunk.js",
-    "static/js/75.d306054e.chunk.js": "/static/js/75.d306054e.chunk.js",
+    "static/js/75.632a721a.chunk.js": "/static/js/75.632a721a.chunk.js",
     "static/media/logo.png": "/static/media/logo.1c2a0e0e33a018a916bb.png",
     "static/media/landing1.png": "/static/media/landing1.ccd7f57fad9e9adcfc8b.png",
     "static/media/logo-wa.png": "/static/media/logo-wa.487a1acee30e9cd376a9.png",
     "static/media/sorry.svg": "/static/media/sorry.a8b423dd2a38a9d63107354f3a4a8681.svg",
     "index.html": "/index.html",
-    "main.55b1970c.css.map": "/static/css/main.55b1970c.css.map",
-    "main.4d7caf65.js.map": "/static/js/main.4d7caf65.js.map",
+    "main.6c2538ef.css.map": "/static/css/main.6c2538ef.css.map",
+    "main.50c1a049.js.map": "/static/js/main.50c1a049.js.map",
     "213.448ae3c2.chunk.js.map": "/static/js/213.448ae3c2.chunk.js.map",
     "455.16686087.chunk.js.map": "/static/js/455.16686087.chunk.js.map",
     "64.4f57bbb2.chunk.js.map": "/static/js/64.4f57bbb2.chunk.js.map",
     "116.2012d5db.chunk.js.map": "/static/js/116.2012d5db.chunk.js.map",
     "788.1b37a2c7.chunk.js.map": "/static/js/788.1b37a2c7.chunk.js.map",
-    "75.d306054e.chunk.js.map": "/static/js/75.d306054e.chunk.js.map"
+    "75.632a721a.chunk.js.map": "/static/js/75.632a721a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.55b1970c.css",
-    "static/js/main.4d7caf65.js"
+    "static/css/main.6c2538ef.css",
+    "static/js/main.50c1a049.js"
   ]
 }
